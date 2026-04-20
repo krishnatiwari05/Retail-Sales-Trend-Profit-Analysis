@@ -25,8 +25,10 @@ This project showcases an interactive **Retail Sales Trend Profit Analysis** bui
 🛠 Tools Used:
 
 * Power BI
+* Excel
+* MySQL
 * Data Visualization Techniques
-* Superstore Sales Dataset
+* Retail store Sales Dataset
 
 🎯 Purpose:
 
