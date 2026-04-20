@@ -1,5 +1,8 @@
 # Retail-Sales-Trend-Profit-Analysis
 
+
+<img width="1055" height="587" alt="Retail Sales Trend Profit Analysis" src="https://github.com/user-attachments/assets/39aa1e7b-229f-4390-a5b3-49efe6013783" />
+
 📊 Retail Sales Trend Profit Analysis
 
 This project showcases an interactive **Retail Sales Trend Profit Analysis** built using Power BI to analyze and visualize sales performance across multiple dimensions.
